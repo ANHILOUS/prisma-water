@@ -1,0 +1,6 @@
+{
+  "name": "Prisma Aquatech",
+  "description": "State-of-the-art molecular water engineering, sustainable treatment facilities, and industrial purification solutions under the Prisma TM mark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
