@@ -14,6 +14,11 @@ Designed with a sleek, immersive dark mode aesthetic, Splash utilizes modern typ
 * **Refined Design Tokens**: Premium glassmorphic navigation layout, curated earth-tone borders, and micro-interactions optimized for high-end presentation devices.
 * **Turnkey Consultation Hub**: An interactive specification portal allowing clients to outline system capacities and download engineering schematics.
 
+<img width="1918" height="1083" alt="Screenshot 2026-05-22 at 10 17 55 PM" src="https://github.com/user-attachments/assets/edf2d5e1-6889-4969-93c6-effaab18902b" />
+<img width="1918" height="1083" alt="Screenshot 2026-05-22 at 10 18 25 PM" src="https://github.com/user-attachments/assets/b98e6a49-2be9-4ed2-9cc9-3d104d74ade7" />
+<img width="1918" height="1083" alt="Screenshot 2026-05-22 at 10 18 09 PM" src="https://github.com/user-attachments/assets/869cd2be-f83d-4d83-94a2-ec025e201dd8" />
+
+
 ---
 
 ## 🛠️ Technology Stack
