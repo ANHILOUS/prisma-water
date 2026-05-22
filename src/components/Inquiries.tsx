@@ -43,7 +43,7 @@ export default function Inquiries() {
               Initiate a custom plant build proposal.
             </h2>
             <p className="text-neutral-400 font-light text-xs sm:text-sm md:text-base leading-relaxed mb-8">
-              Prisma’s engineering team designs turnkey purification infrastructure for governments, industries, and cities. Submit your specifications to request a mechanical blueprint outline and initial capital expenditure estimation.
+              Splash’s engineering team designs turnkey purification infrastructure for governments, industries, and cities. Submit your specifications to request a mechanical blueprint outline and initial capital expenditure estimation.
             </p>
  
             <div className="border-t border-neutral-900 pt-8 space-y-5">

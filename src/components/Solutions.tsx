@@ -38,7 +38,7 @@ const sectors: SectorItem[] = [
     subtitle: "Large-Scale Civil Infrastructure",
     desc: "Sovereign physical grids designed for high-throughput city drinking water. Powered by gravity recovery loops and automated municipal quartz filtration systems.",
     metrics: ["99.9% Gravity Recovery", "No chemical residues", "Autonomous backwash filters"],
-    details: "Sovereign metropolitan layouts require extreme structural security. Prisma municipal designs incorporate integrated triple-redundant pre-settlement grids, active quartz-sand layers, and high-intensity ozone infusers, engineered to supply consistent water volumes safely without synthetic chemicals.",
+    details: "Sovereign metropolitan layouts require extreme structural security. Splash municipal designs incorporate integrated triple-redundant pre-settlement grids, active quartz-sand layers, and high-intensity ozone infusers, engineered to supply consistent water volumes safely without synthetic chemicals.",
     styleType: "obsidian", // Charcoal, amber telemetry, circular radar dial, mini-logs
     badge: "SYS // MUNI INTAKE",
     schemaLabel: "MUNICIPAL CONDUIT V1",
@@ -84,7 +84,7 @@ const sectors: SectorItem[] = [
     subtitle: "Aquatic Habitat Life Systems",
     desc: "Turnkey ecological recovery pods engineered to restore dissolved oxygen levels, control algae blooms, and stabilize aquatic biology.",
     metrics: ["DO levels boosted +140%", "Organic algae neutralizer", "Solar autonomous telemetry"],
-    details: "Delicate aquatic habitats require biological precision. Prisma environmental pods float directly on fragile reservoirs, utilizing micro-spargers, bio-extraction cycles, and sovereign solar power arrays to restore pristine water quality without introducing toxic chemical residues.",
+    details: "Delicate aquatic habitats require biological precision. Splash environmental pods float directly on fragile reservoirs, utilizing micro-spargers, bio-extraction cycles, and sovereign solar power arrays to restore pristine water quality without introducing toxic chemical residues.",
     styleType: "alabaster", // Off-white warm stone texture, dark typography, environmental charts
     badge: "ECO // RECOVERY UNIT",
     schemaLabel: "BIOTA OXIDATION DECK",

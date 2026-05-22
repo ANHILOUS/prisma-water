@@ -39,7 +39,7 @@ export default function Navbar({
         {/* 1. Left aligned - Logo */}
         <div className={`flex-1 flex justify-start items-center text-white select-none transition-opacity duration-300 ${menuOpen ? 'opacity-0 pointer-events-none' : 'opacity-100'}`}>
           <span className="text-lg sm:text-xl font-light tracking-tight font-serif italic text-white">
-            Prisma<span className="font-sans font-light not-italic ml-1 text-[10px] uppercase tracking-widest text-[#DEDBC8]/70">Water</span><sup className="text-[8px] font-sans font-normal not-italic tracking-normal ml-0.5 opacity-60 text-[#DEDBC8]/70">TM</sup>
+            Splash<span className="font-sans font-light not-italic ml-1 text-[10px] uppercase tracking-widest text-[#DEDBC8]/70">Water</span><sup className="text-[8px] font-sans font-normal not-italic tracking-normal ml-0.5 opacity-60 text-[#DEDBC8]/70">TM</sup>
           </span>
         </div>
 

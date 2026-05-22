@@ -238,7 +238,7 @@ export default function Hero() {
         }`}
         style={{ top: '126px' }}
       >
-        <h1 className="hero-title select-none">Prisma</h1>
+        <h1 className="hero-title select-none">Splash</h1>
       </div>
 
       {/* Bottom Row */}
@@ -251,7 +251,7 @@ export default function Hero() {
       >
         {/* Left column info */}
         <p className="text-sm font-body font-light text-[#DEDBC8]/75 max-w-[240px] leading-relaxed text-center md:text-left self-center md:self-end">
-          Prisma engineers next-generation high-fidelity municipal and industrial water reclamation systems across the globe.
+          Splash engineers next-generation high-fidelity municipal and industrial water reclamation systems across the globe.
         </p>
 
         {/* Right column info */}

@@ -9,7 +9,7 @@ export default function Standards() {
   const categories = [
     {
       title: "EPA Drinking Standards",
-      desc: "Prisma processes consistently exceed federal primary drinking water contaminant limits. We maintain zero-tolerance levels for volatile organic compounds and coliforms.",
+      desc: "Splash processes consistently exceed federal primary drinking water contaminant limits. We maintain zero-tolerance levels for volatile organic compounds and coliforms.",
       icon: Award,
       badge: "US-EPA Compliant"
     },
@@ -91,7 +91,7 @@ export default function Standards() {
           <div className="max-w-2xl text-center md:text-left">
             <span className="text-[9px] font-mono text-[#DEDBC8]/50 tracking-widest uppercase mb-2 block font-bold">EMERGENCY SCADA LINK</span>
             <p className="text-[#E1E0CC]/85 font-light text-xs sm:text-sm leading-relaxed">
-              &ldquo;All active Prisma plants stream mechanical operation stats over secure satellite backhaul directly to sovereign state dashboards, satisfying ISO 27001 cybersecurity frameworks.&rdquo;
+              &ldquo;All active Splash plants stream mechanical operation stats over secure satellite backhaul directly to sovereign state dashboards, satisfying ISO 27001 cybersecurity frameworks.&rdquo;
             </p>
           </div>
         </div>

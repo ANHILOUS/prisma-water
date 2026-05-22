@@ -19,12 +19,12 @@ export default function About() {
   const textRef = useRef<HTMLParagraphElement>(null);
 
   const segments = [
-    { text: "We are Prisma,", className: "font-normal" },
+    { text: "We are Splash,", className: "font-normal" },
     { text: "architects of pure water.", className: "italic font-serif font-semibold text-[#E1E0CC]" },
     { text: " We construct and automate high-fidelity, high-throughput water treatment plants worldwide.", className: "font-normal" }
   ];
 
-  const bodyText = "Over the last twenty years, Prisma has engineered municipal water assets and specialized industrial wastewater systems from Geneva to Tokyo. By integrating electro-coagulation with molecular ultrafiltration, our facilities return trillions of liters of pristine, life-grade drinking water to local grids and global ecosystems with zero chemical additives.";
+  const bodyText = "Over the last twenty years, Splash has engineered municipal water assets and specialized industrial wastewater systems from Geneva to Tokyo. By integrating electro-coagulation with molecular ultrafiltration, our facilities return trillions of liters of pristine, life-grade drinking water to local grids and global ecosystems with zero chemical additives.";
 
   const { scrollYProgress } = useScroll({
     target: textRef,
