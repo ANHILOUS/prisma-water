@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # 🌊 Splash — High-Fidelity Water Reclamation Systems
 
 Splash is a state-of-the-art web application showcasing next-generation, chemical-free molecular water engineering, sustainable municipal treatment facilities, and advanced industrial purification solutions.
